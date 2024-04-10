@@ -1,4 +1,4 @@
-##### A library management system software
+### A library management system software
 A library management system software is a comprehensive solution designed to streamline and automate various tasks involved in managing a library's resources, including books, journals, periodicals, multimedia materials, and other items. It provides librarians and library staff with tools to efficiently organize, catalog, circulate, and maintain library collections while enhancing user experience for patrons.
 
 Key features of a library management system software typically include:
