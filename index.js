@@ -1,7 +1,4 @@
 console.log("This is index.js");
-// Todos"
-// 1. Store all the data to the local
-// 3. Add a scroll bar to the view
 
 // Constructor
 function Book(name, author, type) {
